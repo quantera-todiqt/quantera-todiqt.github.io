@@ -26,6 +26,20 @@
     to quantum information theory. He has contributed key results on
     device-independent quantum key distribution and quantum randomness generation.
 
+- name: Felix Huber
+  institution: University of Gdańsk — Faculty of Mathematics, Physics and Informatics / ICTQT, Poland
+  role: Assistant Professor
+  image: pics/huber.jpg
+  website: "https://huberfe.github.io/"
+  arxiv: "https://arxiv.org/a/huber_f_1.html"
+  description: >
+    Felix Huber is an Assistant Professor at the University of Gdańsk and a member of the
+    International Centre for the Theory of Quantum Technologies (ICTQT). His research spans
+    quantum error correction, quantum entanglement, nonlocality, and the mathematical
+    foundations of quantum information. He previously held positions at the University of
+    Bordeaux, Jagiellonian University, ICFO Barcelona, and the University of Cologne, and
+    is a recipient of the DPG Dissertation Award.
+
 - name: Gláucia Murta
   institution: TU Wien — Atominstitut, Austria
   role: Assistant Professor (Consortium Coordinator)

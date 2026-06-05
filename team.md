@@ -30,16 +30,16 @@ title: Team
   gap: 1rem;
 }
 .team-photo {
-  width: 90px;
-  height: 90px;
+  width: 135px;
+  height: 135px;
   object-fit: cover;
   object-position: top center;
   border-radius: 4px;
   flex-shrink: 0;
 }
 .team-photo-placeholder {
-  width: 90px;
-  height: 90px;
+  width: 135px;
+  height: 135px;
   background: rgba(255,255,255,0.1);
   border-radius: 4px;
   flex-shrink: 0;
