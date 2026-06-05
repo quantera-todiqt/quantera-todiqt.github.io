@@ -1,0 +1,69 @@
+# One entry per researcher. coordinator: true marks the consortium coordinator.
+- name: Jean-Daniel Bancal
+  institution: CEA Saclay — Institut de Physique Théorique, France
+  role: Researcher
+  image: pics/bancal.jpg
+  website: "https://scholar.google.com/citations?user=HtF-5YkAAAAJ"
+  arxiv: "https://arxiv.org/a/bancal_j_1.html"
+  description: >
+    Jean-Daniel Bancal is a researcher at the Institut de Physique Théorique,
+    CEA Saclay, where he leads a quantum information theory group. His research
+    focuses on quantum nonlocality, Bell inequalities, device-independent quantum
+    information, and multipartite entanglement detection. He has made seminal
+    contributions to the study of genuine multipartite nonlocality and to
+    self-testing protocols in quantum networks.
+
+- name: Peter Brown
+  institution: Télécom Paris — Institut Polytechnique de Paris, France
+  role: Associate Professor
+  image: ""
+  website: "https://peterjbrown519.github.io/"
+  arxiv: "https://arxiv.org/search/?query=Peter+Brown&searchtype=author&start=0"
+  description: >
+    Peter Brown is an Associate Professor in the QTY group at Télécom Paris.
+    His research focuses on the theoretical development of device-independent
+    quantum cryptographic protocols and the application of convex optimisation
+    to quantum information theory. He has contributed key results on
+    device-independent quantum key distribution and quantum randomness generation.
+
+- name: Gláucia Murta
+  institution: TU Wien — Atominstitut, Austria
+  role: Assistant Professor (Consortium Coordinator)
+  coordinator: true
+  image: pics/murta.jpg
+  website: "https://glauciamg.github.io/"
+  arxiv: "https://arxiv.org/search/?query=Glaucia+Murta&searchtype=author"
+  description: >
+    Gláucia Murta is an Assistant Professor at the Atominstitut of TU Wien,
+    where she leads the Quantum Foundations and Cryptography group. Her research
+    investigates fundamental aspects of quantum correlations and their application
+    to quantum communication and cryptography. She is the coordinator of the
+    QuantERA ToDiQT consortium.
+
+- name: Stefano Pironio
+  institution: Université libre de Bruxelles, Belgium
+  role: Researcher
+  image: pics/pironio.jpg
+  website: "https://scholar.google.com/citations?user=xboKfmkAAAAJ"
+  arxiv: "https://arxiv.org/a/pironio_s_1.html"
+  description: >
+    Stefano Pironio is a researcher at the Laboratoire d'Information Quantique,
+    Université libre de Bruxelles. After his PhD at ULB and postdoctoral
+    fellowships at Caltech, ICFO Barcelona, and the University of Geneva, he has
+    been at ULB since 2010. He is a leading expert on quantum correlations, Bell
+    inequalities, device-independent applications, and the certification of
+    quantum systems.
+
+- name: Ramona Wolf
+  institution: University of Innsbruck, Austria
+  role: Assistant Professor
+  image: pics/wolf.jpg
+  website: "https://ramonawolf.com/"
+  arxiv: "https://arxiv.org/search/?query=Ramona+Wolf&searchtype=author"
+  description: >
+    Ramona Wolf is an Assistant Professor at the University of Innsbruck
+    (since March 2026), where she builds a group on quantum cryptography.
+    Previously a Junior Professor at the University of Siegen and a postdoctoral
+    researcher at ETH Zurich, her research covers quantum key distribution,
+    quantum cryptography, and quantum information theory. She is the author of
+    a Springer textbook on quantum key distribution.

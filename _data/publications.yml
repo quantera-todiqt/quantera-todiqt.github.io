@@ -1,0 +1,11 @@
+# Add publications here. The page groups them by year automatically.
+# Fields: title, authors, venue, year, tags (list), arxiv (URL or ""), doi (URL or "")
+#
+# Example:
+# - title: "Your Paper Title"
+#   authors: Murta, G.; Brown, P.; Pironio, S.
+#   venue: "Physical Review Letters, vol. X, 2026"
+#   year: 2026
+#   tags: [device-independent, QKD]
+#   arxiv: "https://arxiv.org/abs/XXXX.XXXXX"
+#   doi: ""

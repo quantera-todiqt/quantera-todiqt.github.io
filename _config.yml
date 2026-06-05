@@ -1,0 +1,22 @@
+remote_theme: andrewbanchich/hyperspace-jekyll-theme
+
+title: QuantERA ToDiQT
+subtitle: Towards Device-independent Quantum Technologies
+description: >
+  An international research consortium developing the foundations and
+  applications of device-independent quantum technologies.
+email: glaucia.murta@tuwien.ac.at
+url: "https://quantera-todiqt.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

@@ -1,0 +1,12 @@
+# Add upcoming events here. Sorted by date automatically.
+# Fields: title, date (YYYY-MM-DD), end_date, location, description, tags (list), url (or "")
+#
+# Example:
+# - title: "ToDiQT Annual Workshop"
+#   date: "2026-09-01"
+#   end_date: "2026-09-03"
+#   location: "TU Wien, Austria"
+#   description: >
+#     Annual consortium workshop.
+#   tags: [workshop]
+#   url: ""
