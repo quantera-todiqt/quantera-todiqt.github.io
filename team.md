@@ -6,7 +6,7 @@ title: Team
 <section class="wrapper style1 fade-up">
 <div class="inner">
 <h2>Research Team</h2>
-<p>The QuantERA ToDiQT consortium brings together five leading research groups working on device-independent quantum technologies.</p>
+<p>The QuantERA ToDiQT consortium brings together six leading research groups working on device-independent quantum technologies.</p>
 
 <style>
 .team-grid {
