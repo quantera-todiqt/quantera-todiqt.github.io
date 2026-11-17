@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: ToDiQT Kick-off Meeting
@@ -5,17 +6,51 @@ permalink: /events/kickoff.html
 ---
 
 <style>
-.schedule th, .schedule td { text-align: center; vertical-align: middle; border: 1px solid rgba(255,255,255,.15); }
-.schedule .brk { opacity: .7; font-style: italic; }
+.table-wrapper {
+    width: 100%;
+}
+
+table.schedule {
+    width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+}
+
+table.schedule th,
+table.schedule td {
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(255,255,255,.15);
+    overflow-wrap: break-word;
+    box-sizing: border-box;
+}
+
+table.schedule th:first-child,
+table.schedule td:first-child {
+    width: 6rem !important;
+}
+
+table.schedule th:nth-child(2),
+table.schedule th:nth-child(3),
+table.schedule th:nth-child(4) {
+    width: calc((100% - 6rem) / 3) !important;
+}
+
+table.schedule .brk {
+    opacity: .7;
+    font-style: italic;
+}
 </style>
 
 <section class="wrapper style1 fade-up">
 <div class="inner">
+
 <h2>ToDiQT Kick-off Meeting</h2>
 <p><strong>24–26 November 2026</strong> &nbsp;|&nbsp; University of Gdańsk, Poland</p>
 
 <h3>Venue</h3>
 <p>Informatics building of the University of Gdańsk (<a href="https://maps.app.goo.gl/mB1xxjXGycpFeZhW9">view on map</a>)</p>
+
 
 <h3>Programme</h3>
 <div class="table-wrapper">
@@ -33,34 +68,31 @@ permalink: /events/kickoff.html
 <tr><td>12:30</td><td rowspan="2" class="brk">Lunch</td><td rowspan="3" class="brk">Lunch</td><td>Final roundtable and wrap-up</td></tr>
 <tr><td>13:00</td><td rowspan="9"></td></tr>
 <tr><td>13:30</td><td>Welcome and Project overview</td></tr>
-<tr><td>14:00</td><td rowspan="3"></td><td rowspan="3">Brainstorming: DI for communication</td></tr>
+<tr><td>14:00</td><td rowspan="3">Brainstorming: DI for communication</td><td rowspan="3">Focused scientific discussions</td></tr>
 <tr><td>14:30</td></tr>
 <tr><td>15:00</td></tr>
 <tr><td>15:30</td><td class="brk">Coffee break</td><td class="brk">Coffee break</td></tr>
-<tr><td>16:00</td><td rowspan="3">Tutorial on Device Independence* (Stefano Pironio)</td><td rowspan="3"></td></tr>
+<tr><td>16:00</td><td rowspan="3">Tutorial on Device Independence* (Stefano Pironio)</td><td rowspan="3">Project coordination: Data management plan, next meetings  <b>(PIs only)</b> </td></tr>
 <tr><td>16:30</td></tr>
 <tr><td>17:00</td></tr>
-<tr><td>19:00 – 21:00</td><td></td><td class="brk">Conference dinner</td><td></td></tr>
+<tr><td>19:00 – 21:00</td><td class="brk">Conference dinner</td><td></td><td></td></tr>
 </tbody>
 </table>
 </div>
 
-<!-- Still to place (check the sheet for the day and time):
-     "Focused scientific discussions" (afternoon)
-     "PIs only: Project coordination (Data management plan, next meetings)" -->
+<p><small>* Tutorial open to all members of the University of Gdańsk (UG).</small></p>
 
-<ul>
-  <li>Tutorial open to all members of the University of Gdańsk (UG).</li>
-</ul>
+
 
 <h3>Contact</h3>
 <p>For enquiries, please contact:</p>
 <ul>
-  <li>Felix Huber – <a href="mailto:felix.huber@ug.edu.pl">felix.huber@ug.edu.pl</a></li>
-  <li>Małgorzata Szczekocka – <a href="mailto:malgorzata.szczekocka@ug.edu.pl">malgorzata.szczekocka@ug.edu.pl</a></li>
+<li>Felix Huber – <a href="mailto:felix.huber@ug.edu.pl">felix.huber@ug.edu.pl</a></li>
+<li>Małgorzata Szczekocka – <a href="mailto:malgorzata.szczekocka@ug.edu.pl">malgorzata.szczekocka@ug.edu.pl</a></li>
 </ul>
 
 <p><a href="/events.html">&larr; Back to Events</a></p>
 
 </div>
 </section>
+
