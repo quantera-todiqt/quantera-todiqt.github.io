@@ -1,0 +1,25 @@
+/* Global ToDiQT colour scheme */
+
+.wrapper.style1 {
+  background-color: #102A43 !important;
+}
+
+.wrapper.style1-alt {
+  background-color: #0B1F33 !important;
+}
+
+.wrapper.style2 {
+  background-color: #16445B !important;
+}
+
+.wrapper.style2-alt {
+  background-color: #174454 !important;
+}
+
+.wrapper.style3 {
+  background-color: #287C83 !important;
+}
+
+.wrapper.style3-alt {
+  background-color: #1E626A !important;
+}
