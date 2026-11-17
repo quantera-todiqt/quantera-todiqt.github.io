@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: ToDiQT Kick-off Meeting
@@ -49,8 +48,6 @@ permalink: /events/kickoff.html
 </div>
 
 <p><small>* Tutorial open to all members of the University of Gdańsk (UG).</small></p>
-
-
 
 <h3>Contact</h3>
 <p>For enquiries, please contact:</p>
