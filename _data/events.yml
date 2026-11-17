@@ -10,3 +10,13 @@
 #     Annual consortium workshop.
 #   tags: [workshop]
 #   url: ""
+- title: "ToDiQT Kick-off Meeting"
+  date: "2026-11-24"
+  end_date: "2026-11-26"
+  location: "University of Gdańsk, Poland"
+  description: >
+    Kick-off meeting of the QuantERA ToDiQT consortium: project overview,
+    a tutorial on device independence, brainstorming sessions on DI for
+    quantum computing and communication, and research planning.
+  tags: [kick-off, meeting]
+  url: ""
