@@ -37,7 +37,7 @@ permalink: /events/kickoff.html
 <tr><td>14:30</td></tr>
 <tr><td>15:00</td></tr>
 <tr><td>15:30</td><td class="brk">Coffee break</td><td class="brk">Coffee break</td></tr>
-<tr><td>16:00</td><td rowspan="3">Tutorial on Device Independence (Stefano Pironio)</td><td rowspan="3"></td></tr>
+<tr><td>16:00</td><td rowspan="3">Tutorial on Device Independence* (Stefano Pironio)</td><td rowspan="3"></td></tr>
 <tr><td>16:30</td></tr>
 <tr><td>17:00</td></tr>
 <tr><td>19:00 – 21:00</td><td></td><td class="brk">Conference dinner</td><td></td></tr>
@@ -48,6 +48,10 @@ permalink: /events/kickoff.html
 <!-- Still to place (check the sheet for the day and time):
      "Focused scientific discussions" (afternoon)
      "PIs only: Project coordination (Data management plan, next meetings)" -->
+
+<ul>
+  <li>Tutorial open to all members of the University of Gdańsk (UG).</li>
+</ul>
 
 <h3>Contact</h3>
 <p>For enquiries, please contact:</p>
