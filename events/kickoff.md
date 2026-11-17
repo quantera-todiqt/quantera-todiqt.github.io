@@ -6,40 +6,8 @@ permalink: /events/kickoff.html
 ---
 
 <style>
-.table-wrapper {
-    width: 100%;
-}
-
-table.schedule {
-    width: 100% !important;
-    table-layout: fixed !important;
-    border-collapse: collapse !important;
-}
-
-table.schedule th,
-table.schedule td {
-    text-align: center;
-    vertical-align: middle;
-    border: 1px solid rgba(255,255,255,.15);
-    overflow-wrap: break-word;
-    box-sizing: border-box;
-}
-
-table.schedule th:first-child,
-table.schedule td:first-child {
-    width: 6rem !important;
-}
-
-table.schedule th:nth-child(2),
-table.schedule th:nth-child(3),
-table.schedule th:nth-child(4) {
-    width: calc((100% - 6rem) / 3) !important;
-}
-
-table.schedule .brk {
-    opacity: .7;
-    font-style: italic;
-}
+.schedule th, .schedule td { text-align: center; vertical-align: middle; border: 1px solid rgba(255,255,255,.15); }
+.schedule .brk { opacity: .7; font-style: italic; }
 </style>
 
 <section class="wrapper style1 fade-up">
