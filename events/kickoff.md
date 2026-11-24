@@ -30,11 +30,12 @@ permalink: /events/kickoff.html
 </tr>
 </thead>
 <tbody>
+
 <tr>
     <td>09:30</td>
     <td rowspan="5"></td>
-    <td rowspan="2">Brainstorming: DI for communication</td>
-    <td rowspan="2">Discussion and collaboration planning</td>
+    <td rowspan="2" class="event-a">Brainstorming: DI for communication</td>
+    <td rowspan="2" class="event-a">Discussion and collaboration planning</td>
 </tr>
 <tr><td>10:00</td></tr>
 
@@ -46,69 +47,81 @@ permalink: /events/kickoff.html
 
 <tr>
     <td>10:45</td>
-    <td rowspan="2">Brainstorming: DI for quantum computing</td>
-    <td rowspan="2">Research plans</td>
+    <td rowspan="2" class="event-b">Brainstorming: DI for quantum computing</td>
+    <td rowspan="2" class="event-b">Research plans</td>
 </tr>
 <tr><td>11:30</td></tr>
 
 <tr>
     <td>12:00</td>
     <td rowspan="3" class="brk">Lunch</td>
-    <td>Conference photo</td>
-    <td>Final roundtable and wrap-up</td>
+    <td></td>
+    <td class="event-a">Final roundtable and wrap-up</td>
 </tr>
+
 <tr>
     <td>12:15</td>
-     <td rowspan="3" class="brk">Lunch</td>
+    <td class="event-a">Group photo</td>
     <td></td>
 </tr>
+
 <tr>
     <td>12:30</td>
-    <td></td>
+    <td rowspan="2" class="brk">Lunch</td>
     <td></td>
 </tr>
+
 <tr>
     <td>13:00</td>
     <td></td>
     <td></td>
 </tr>
+
 <tr>
     <td>13:30</td>
-    <td>Welcome and Project overview</td>
-    <td rowspan="2">Project coordination: Data management plan, next meetings <b>(PIs only)</b></td>
+    <td class="event-a">Welcome and Project overview</td>
+    <td rowspan="2" class="event-b">
+        Project coordination: Data management plan, next meetings
+        <b>(PIs only)</b>
+    </td>
     <td></td>
 </tr>
 
 <tr>
     <td>14:00</td>
-    <td rowspan="3">Discussion on <i>Collaborations in Times of AI</i></td>
-    <td></td>
-    <td rowspan="9"></td>
+    <td rowspan="3" class="event-b">
+        Discussion on <i>Collaborations in Times of AI</i>
+    </td>
+    <td rowspan="8"></td>
 </tr>
-<tr><td>14:30</td>
- <td rowspan="8">Free afternoon</td>
+
+<tr>
+    <td>14:30</td>
+    <td rowspan="7" class="event-a">Free afternoon</td>
 </tr>
+
 <tr><td>15:00</td></tr>
 
 <tr>
     <td>15:30</td>
     <td class="brk">Coffee break</td>
-    <td></td>
 </tr>
 
 <tr>
     <td>16:00</td>
-    <td rowspan="3">Tutorial on Device Independence* (Stefano Pironio)</td>
-    <td></td>
+    <td rowspan="3" class="event-a">
+        Tutorial on Device Independence* (Stefano Pironio)
+    </td>
 </tr>
+
 <tr><td>16:30</td></tr>
 <tr><td>17:00</td></tr>
 
 <tr>
     <td>19:00 – 21:00</td>
     <td class="brk">Conference dinner</td>
-    <td></td>
 </tr>
+
 </tbody>
 </table>
 </div>
