@@ -53,16 +53,30 @@ permalink: /events/kickoff.html
 
 <tr>
     <td>12:00</td>
-    <td rowspan="2" class="brk">Lunch</td>
     <td rowspan="3" class="brk">Lunch</td>
+    <td></td>
     <td>Final roundtable and wrap-up</td>
 </tr>
 <tr>
+    <td>12:15</td>
+    <td class="brk">Group photo</td>
+    <td></td>
+</tr>
+<tr>
+    <td>12:30</td>
+    <td rowspan="2" class="brk">Lunch</td>
+    <td></td>
+</tr>
+<tr>
     <td>13:00</td>
+    <td></td>
+    <td></td>
 </tr>
 <tr>
     <td>13:30</td>
     <td>Welcome and Project overview</td>
+    <td></td>
+    <td></td>
 </tr>
 
 <tr>
