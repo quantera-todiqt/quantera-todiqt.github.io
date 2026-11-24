@@ -12,7 +12,7 @@ permalink: /events/kickoff.html
     border: 1px solid rgba(255,255,255,.15);
 }
 
-/* Alternating event colours – same blue colour family */
+/* Two shades of the same blue theme */
 .schedule tbody td.event-a {
     background-color: rgba(65, 145, 190, .22) !important;
 }
@@ -42,6 +42,7 @@ permalink: /events/kickoff.html
 <p><strong>24–26 November 2026</strong> &nbsp;|&nbsp; University of Gdańsk, Poland</p>
 
 <h3>Venue</h3>
+
 <p>
 Informatics building of the University of Gdańsk
 (<a href="https://maps.app.goo.gl/mB1xxjXGycpFeZhW9">view on map</a>)
@@ -61,18 +62,24 @@ Informatics building of the University of Gdańsk
 </tr>
 </thead>
 
-
 <tbody>
 
 <!-- Morning -->
+
 <tr>
     <td>09:30</td>
     <td rowspan="5"></td>
-    <td rowspan="2" class="event-a">Brainstorming: DI for communication</td>
-    <td rowspan="2" class="event-a">Discussion and collaboration planning</td>
+    <td rowspan="2" class="event-a">
+        Brainstorming: DI for communication
+    </td>
+    <td rowspan="2" class="event-a">
+        Discussion and collaboration planning
+    </td>
 </tr>
 
-<tr><td>10:00</td></tr>
+<tr>
+    <td>10:00</td>
+</tr>
 
 <tr>
     <td>10:15</td>
@@ -82,13 +89,20 @@ Informatics building of the University of Gdańsk
 
 <tr>
     <td>10:45</td>
-    <td rowspan="2" class="event-b">Brainstorming: DI for quantum computing</td>
-    <td rowspan="2" class="event-b">Research plans</td>
+    <td rowspan="2" class="event-b">
+        Brainstorming: DI for quantum computing
+    </td>
+    <td rowspan="2" class="event-b">
+        Research plans
+    </td>
 </tr>
 
-<tr><td>11:30</td></tr>
+<tr>
+    <td>11:30</td>
+</tr>
 
-<!-- Lunch and photo -->
+<!-- Lunch and conference photo -->
+
 <tr>
     <td>12:00</td>
     <td rowspan="4" class="brk">Lunch</td>
@@ -98,22 +112,27 @@ Informatics building of the University of Gdańsk
 
 <tr>
     <td>12:15</td>
-    <td rowspan="4" class="brk">Lunch</td>
-    <td></td>
+    <td rowspan="3" class="brk">Lunch</td>
+    <td rowspan="12"></td>
 </tr>
 
 <tr>
     <td>12:30</td>
-    <td></td>
-    <td rowspan="11"></td>
 </tr>
 
-<tr><td>13:00</td><td></td></tr>
+<tr>
+    <td>13:00</td>
+</tr>
 
 <!-- Afternoon -->
+
 <tr>
     <td>13:30</td>
     <td class="event-a">Welcome and Project overview</td>
+    <td rowspan="2" class="event-b">
+        Project coordination: Data management plan, next meetings
+        <b>(PIs only)</b>
+    </td>
 </tr>
 
 <tr>
@@ -121,17 +140,15 @@ Informatics building of the University of Gdańsk
     <td rowspan="3" class="event-b">
         Discussion on <i>Collaborations in Times of AI</i>
     </td>
-    <td rowspan="2" class="event-b">
-        Project coordination: Data management plan, next meetings
-        <b>(PIs only)</b>
-    </td>
 </tr>
 
-<tr><td>14:30</td></tr>
+<tr>
+    <td>14:30</td>
+    <td rowspan="7" class="event-a">Free afternoon</td>
+</tr>
 
 <tr>
     <td>15:00</td>
-    <td rowspan="5" class="event-a">Free afternoon</td>
 </tr>
 
 <tr>
@@ -146,18 +163,22 @@ Informatics building of the University of Gdańsk
     </td>
 </tr>
 
-<tr><td>16:30</td></tr>
+<tr>
+    <td>16:30</td>
+</tr>
 
-<tr><td>17:00</td></tr>
+<tr>
+    <td>17:00</td>
+</tr>
 
 <!-- Evening -->
+
 <tr>
     <td>19:00 – 21:00</td>
     <td class="brk">Conference dinner</td>
 </tr>
 
 </tbody>
-
 </table>
 </div>
 
