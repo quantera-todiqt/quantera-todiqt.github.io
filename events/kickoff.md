@@ -5,8 +5,33 @@ permalink: /events/kickoff.html
 ---
 
 <style>
-.schedule th, .schedule td { text-align: center; vertical-align: middle; border: 1px solid rgba(255,255,255,.15); }
-.schedule .brk { opacity: .7; font-style: italic; }
+.schedule th,
+.schedule td {
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgba(255,255,255,.15);
+}
+
+/* Alternating event colours */
+.schedule tbody td.event-a {
+    background-color: rgba(65, 145, 190, .22) !important;
+}
+
+.schedule tbody td.event-b {
+    background-color: rgba(205, 150, 75, .22) !important;
+}
+
+/* Breaks and lunch */
+.schedule tbody td.brk {
+    background-color: rgba(255,255,255,.08) !important;
+    font-style: italic;
+    opacity: .85;
+}
+
+/* Keep empty cells visually neutral */
+.schedule tbody td:empty {
+    background-color: transparent !important;
+}
 </style>
 
 <section class="wrapper style1 fade-up">
