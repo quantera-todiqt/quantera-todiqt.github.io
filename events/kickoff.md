@@ -26,7 +26,7 @@ permalink: /events/kickoff.html
 <tr><th style="width:6rem">Time</th><th>Tuesday<br>24 November</th><th>Wednesday<br>25 November</th><th>Thursday<br>26 November</th></tr>
 </thead>
 <tbody>
-<tr><td>09:30</td><td rowspan="6"></td><td rowspan="3">Brainstorming: DI for communication</td><td rowspan="3">Discussion and collaboration plannings</td></tr>
+<tr><td>09:30</td><td rowspan="6"></td><td rowspan="2">Brainstorming: DI for communication</td><td rowspan="2">Discussion and collaboration plannings</td></tr>
 <tr><td>10:00</td></tr>
 <tr><td>10:15</td><td class="brk">Coffee break</td><td class="brk">Coffee break</td></tr>
 <tr><td>10:45</td><td rowspan="2">Brainstorming: DI for quantum computing</td><td rowspan="2">Research plans</td></tr>
