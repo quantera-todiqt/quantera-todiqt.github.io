@@ -61,18 +61,15 @@ Informatics building of the University of Gdańsk
 </tr>
 </thead>
 
+
 <tbody>
 
 <!-- Morning -->
 <tr>
     <td>09:30</td>
     <td rowspan="5"></td>
-    <td rowspan="2" class="event-a">
-        Brainstorming: DI for communication
-    </td>
-    <td rowspan="2" class="event-a">
-        Discussion and collaboration planning
-    </td>
+    <td rowspan="2" class="event-a">Brainstorming: DI for communication</td>
+    <td rowspan="2" class="event-a">Discussion and collaboration planning</td>
 </tr>
 
 <tr><td>10:00</td></tr>
@@ -85,12 +82,8 @@ Informatics building of the University of Gdańsk
 
 <tr>
     <td>10:45</td>
-    <td rowspan="2" class="event-b">
-        Brainstorming: DI for quantum computing
-    </td>
-    <td rowspan="2" class="event-b">
-        Research plans
-    </td>
+    <td rowspan="2" class="event-b">Brainstorming: DI for quantum computing</td>
+    <td rowspan="2" class="event-b">Research plans</td>
 </tr>
 
 <tr><td>11:30</td></tr>
@@ -112,20 +105,15 @@ Informatics building of the University of Gdańsk
 <tr>
     <td>12:30</td>
     <td></td>
-     <td rowspan="5"></td>
+    <td rowspan="11"></td>
 </tr>
 
-<tr>
-    <td>13:00</td>
-    <td></td>
-    <td></td>
-</tr>
+<tr><td>13:00</td><td></td></tr>
 
 <!-- Afternoon -->
 <tr>
     <td>13:30</td>
     <td class="event-a">Welcome and Project overview</td>
-    <td></td>
 </tr>
 
 <tr>
@@ -137,12 +125,9 @@ Informatics building of the University of Gdańsk
         Project coordination: Data management plan, next meetings
         <b>(PIs only)</b>
     </td>
-    <td rowspan="8"></td>
 </tr>
 
-<tr>
-    <td>14:30</td>
-</tr>
+<tr><td>14:30</td></tr>
 
 <tr>
     <td>15:00</td>
@@ -172,6 +157,7 @@ Informatics building of the University of Gdańsk
 </tr>
 
 </tbody>
+
 </table>
 </div>
 
