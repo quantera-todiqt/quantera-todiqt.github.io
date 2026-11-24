@@ -12,25 +12,13 @@ permalink: /events/kickoff.html
     border: 1px solid rgba(255,255,255,.15);
 }
 
-/* Alternating event colours */
+/* Only two alternating event colours */
 .schedule tbody td.event-a {
     background-color: rgba(65, 145, 190, .22) !important;
 }
 
 .schedule tbody td.event-b {
     background-color: rgba(205, 150, 75, .22) !important;
-}
-
-/* Breaks and lunch */
-.schedule tbody td.brk {
-    background-color: rgba(255,255,255,.08) !important;
-    font-style: italic;
-    opacity: .85;
-}
-
-/* Empty cells */
-.schedule tbody td:empty {
-    background-color: transparent !important;
 }
 </style>
 
@@ -78,39 +66,7 @@ permalink: /events/kickoff.html
 </tr>
 <tr><td>11:30</td></tr>
 
-<tr>
-    <td>12:00</td>
-    <td rowspan="3" class="brk">Lunch</td>
-    <td></td>
-    <td class="event-a">Final roundtable and wrap-up</td>
-</tr>
-
-<tr>
-    <td>12:15</td>
-    <td class="event-a">Group photo</td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>12:30</td>
-    <td rowspan="2" class="brk">Lunch</td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>13:00</td>
-    <td></td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>13:30</td>
-    <td class="event-a">Welcome and Project overview</td>
-    <td rowspan="2" class="event-b">
-        Project coordination: Data management plan, next meetings
-        <b>(PIs only)</b>
-    </td>
-    <td></td>
+  <td></td>
 </tr>
 
 <tr>
