@@ -26,16 +26,16 @@ permalink: /events/kickoff.html
 <tr><th style="width:6rem">Time</th><th>Tuesday<br>24 November</th><th>Wednesday<br>25 November</th><th>Thursday<br>26 November</th></tr>
 </thead>
 <tbody>
-<tr><td>09:30</td><td rowspan="6"></td><td rowspan="3">Brainstorming: DI for quantum computing</td><td rowspan="3">Focused scientific discussions</td></tr>
+<tr><td>09:30</td><td rowspan="6"></td><td rowspan="3">Brainstorming: DI for communication</td><td rowspan="3">Discussion and collaboration plannings</td></tr>
 <tr><td>10:00</td></tr>
 <tr><td>10:30</td></tr>
 <tr><td>11:00</td><td class="brk">Coffee break</td><td class="brk">Coffee break</td></tr>
-<tr><td>11:30</td><td rowspan="2">Discussion and collaboration planning</td><td rowspan="2">Research plans</td></tr>
+<tr><td>11:30</td><td rowspan="2">Brainstorming: DI for quantum computing</td><td rowspan="2">Research plans</td></tr>
 <tr><td>12:00</td></tr>
 <tr><td>12:30</td><td rowspan="2" class="brk">Lunch</td><td rowspan="3" class="brk">Lunch</td><td>Final roundtable and wrap-up</td></tr>
 <tr><td>13:00</td><td rowspan="9"></td></tr>
 <tr><td>13:30</td><td>Welcome and Project overview</td></tr>
-<tr><td>14:00</td><td rowspan="3">Brainstorming: DI for communication</td><td rowspan="3">Focused scientific discussions</td></tr>
+<tr><td>14:00</td><td rowspan="3">Discussion on <i>Collaborations in the Time of AI</i></td><td rowspan="3">Focused scientific discussions</td></tr>
 <tr><td>14:30</td></tr>
 <tr><td>15:00</td></tr>
 <tr><td>15:30</td><td class="brk">Coffee break</td><td class="brk">Coffee break</td></tr>
