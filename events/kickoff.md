@@ -12,13 +12,13 @@ permalink: /events/kickoff.html
     border: 1px solid rgba(255,255,255,.15);
 }
 
-/* Two alternating event colours */
+/* Alternating event colours – same blue colour family */
 .schedule tbody td.event-a {
     background-color: rgba(65, 145, 190, .22) !important;
 }
 
 .schedule tbody td.event-b {
-    background-color: rgba(205, 150, 75, .22) !important;
+    background-color: rgba(65, 145, 190, .10) !important;
 }
 
 /* Lunch and coffee breaks */
