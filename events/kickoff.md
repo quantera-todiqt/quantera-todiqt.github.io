@@ -28,11 +28,12 @@ permalink: /events/kickoff.html
     opacity: .85;
 }
 
-/* Keep empty cells visually neutral */
+/* Empty cells */
 .schedule tbody td:empty {
     background-color: transparent !important;
 }
 </style>
+
 
 <section class="wrapper style1 fade-up">
 <div class="inner">
