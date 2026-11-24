@@ -75,29 +75,31 @@ permalink: /events/kickoff.html
 <tr>
     <td>13:30</td>
     <td>Welcome and Project overview</td>
-    <td></td>
+    <td rowspan="2">Project coordination: Data management plan, next meetings <b>(PIs only)</b></td>
     <td></td>
 </tr>
 
 <tr>
     <td>14:00</td>
-    <td rowspan="3">Discussion on <i>Collaborations in the Time of AI</i></td>
-    <td rowspan="3">Focused scientific discussions</td>
+    <td rowspan="3">Discussion on <i>Collaborations in Times of AI</i></td>
+    <td></td>
     <td rowspan="9"></td>
 </tr>
-<tr><td>14:30</td></tr>
+<tr><td>14:30</td>
+ <td rowspan="8">Free afternoon</td>
+</tr>
 <tr><td>15:00</td></tr>
 
 <tr>
     <td>15:30</td>
     <td class="brk">Coffee break</td>
-    <td class="brk">Coffee break</td>
+    <td></td>
 </tr>
 
 <tr>
     <td>16:00</td>
     <td rowspan="3">Tutorial on Device Independence* (Stefano Pironio)</td>
-    <td rowspan="3">Project coordination: Data management plan, next meetings <b>(PIs only)</b></td>
+    <td></td>
 </tr>
 <tr><td>16:30</td></tr>
 <tr><td>17:00</td></tr>
