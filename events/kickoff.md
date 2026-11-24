@@ -98,7 +98,7 @@ Informatics building of the University of Gdańsk
 <!-- Lunch and photo -->
 <tr>
     <td>12:00</td>
-    <td rowspan="3" class="brk">Lunch</td>
+    <td rowspan="4" class="brk">Lunch</td>
     <td class="event-a">Conference photo</td>
     <td class="event-a">Final roundtable and wrap-up</td>
 </tr>
@@ -112,6 +112,7 @@ Informatics building of the University of Gdańsk
 <tr>
     <td>12:30</td>
     <td></td>
+     <td rowspan="5"></td>
 </tr>
 
 <tr>
